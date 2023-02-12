@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    name: sharkmall
+    url: jdbc:mysql://localhost:13306/sharkmall?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=UTC
